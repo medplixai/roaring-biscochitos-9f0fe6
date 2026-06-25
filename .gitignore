@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+**/.DS_Store
+Icon?
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code / local dev tooling
+.claude/
+
+# Node (if you add a build step later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.cache/
+dist/
+.env
+.env.*
+
+# Logs & temp
+*.log
+*.tmp

@@ -1,0 +1,12 @@
+{
+  "name": "Medplix.AI — Intelligent HealthTech Platform",
+  "short_name": "Medplix.AI",
+  "description": "AI-powered Healthcare Management Platform for Hospitals, Clinics, Labs and Pharmacies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f2c4d",
+  "icons": [
+    { "src": "assets/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
